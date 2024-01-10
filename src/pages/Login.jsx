@@ -11,7 +11,7 @@ export default function Login() {
         </div>
         <div>
           <h1 className="text-white font-bold text-2xl">
-            Login to Your Accounts
+            Login to Your Account
           </h1>
         </div>
       </div>
