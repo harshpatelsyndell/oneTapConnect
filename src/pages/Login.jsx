@@ -6,7 +6,7 @@ import Google from "../assets/google.png";
 
 export default function Login() {
   return (
-    <div className="flex flex-col md:flex-row items-center">
+    <div className="flex flex-col md:flex-row items-center bg-white1">
       <div className="bg-black w-full  md:w-1/2 h-screen flex items-center justify-center md:rounded-se-lg md:rounded-ee-lg">
         <div className="p-5 fixed top-0 left-0">
           <img src={Logo} alt="logo" />
