@@ -1,4 +1,6 @@
 // import React from "react";
+// import tapclick from "../assets/tapclick.png";
+// import usercircle from "../assets/usercircle.png";
 
 export default function PlanHeroSec() {
   return (
@@ -13,11 +15,11 @@ export default function PlanHeroSec() {
         </p>
       </div>
       <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-x-8 sm:space-y-0">
-        <button className="w-4/5 sm:w-1/5 bg-orange hover:bg-orangeHover transition-colors duration-300 ease-in-out p-3 text-white rounded-lg">
+        <button className="w-4/5 sm:w-1/5 bg-orange hover:bg-orangeHover transition-colors duration-300 ease-in-out p-3 text-white rounded-lg ">
           Select Plan
         </button>
         <p>Or</p>
-        <button className=" w-4/5 sm:w-1/5 bg-blackFont hover:bg-black transition-colors duration-300 ease-in-out p-3 text-white rounded-lg">
+        <button className=" w-4/5 sm:w-1/5 bg-blackFont hover:bg-black transition-colors duration-300 ease-in-out p-3 text-white rounded-lg ">
           Book a demo
         </button>
       </div>

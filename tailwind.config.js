@@ -10,6 +10,7 @@ export default {
         white1: "#F2F2F2",
         blackFont: "#2C2C2C",
         greyCard: "#333333",
+        cardList: "#49454F",
       },
     },
   },
