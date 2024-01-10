@@ -6,7 +6,10 @@ export default {
       colors: {
         grey: "#8A8A8A",
         orange: "#E65925",
+        orangeHover: "#c94b1d",
         white1: "#F2F2F2",
+        blackFont: "#2C2C2C",
+        greyCard: "#333333",
       },
     },
   },
