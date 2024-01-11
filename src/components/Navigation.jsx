@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 export default function Navigation() {
   return (
-    <div className="sticky top-0 p-5 flex justify-between items-center bg-white">
+    <div className="sticky top-0 p-5 flex justify-between items-center bg-white z-50">
       <Link to="/">
         <img src={Group} alt="logo" />
       </Link>
