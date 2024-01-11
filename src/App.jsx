@@ -3,7 +3,7 @@ import "./App.css";
 import Login from "./pages/Login";
 import PageNotFound from "./pages/PageNotFound";
 import Plans from "./pages/Plans";
-import AccountBilling from "./pages/AccountBilling";
+import AccountBilling from "./components/AccountBilling";
 
 function App() {
   return (

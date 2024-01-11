@@ -102,8 +102,14 @@ export default function Sidebar({ showSidebar, toggleSidebar }) {
     <div
       className={`fixed top-0  md:sticky md:block w-[20rem] md:w-1/5 h-screen bg-black ${
         showSidebar ? "translate-x-0" : "-translate-x-full"
-      } transition-transform ease-in-out duration-300 z-50`}
+      } transition-transform ease-in-out duration-300 z-50 overflow-y-auto`}
     >
+      <div
+        onClick={toggleSidebar}
+        className="md:hidden bg-orange rounded-full relative w-10 h-10 flex justify-center items-center cursor-pointer ms-auto m-4 z-50"
+      >
+        <p className="text-white">X</p>
+      </div>
       <Link to="/" onClick={toggleSidebar}>
         <img className="m-3 my-6 lg:m-6 w-4/5 lg:w-3/5" src={Logo} alt="logo" />
       </Link>

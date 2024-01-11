@@ -42,7 +42,7 @@ export default function Navigation({
         </Link>
       )}
       {searchBar ? (
-        <div className=" mx-10 w-auto hidden sm:flex">
+        <div className=" mx-4 w-auto hidden sm:flex">
           <img
             src={search}
             alt="icon"
