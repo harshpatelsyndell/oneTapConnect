@@ -1,4 +1,5 @@
-```const cardDetails = {
+```
+const cardDetails = {
   monthly: [
     {
       cardType: "Free",
@@ -123,4 +124,19 @@
       ],
     },
   ],
-};```
+};
+```
+
+![harshpatelsyndell github io_oneTapConnect_(iPhone 12 Pro)](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/d93041d4-05a7-492c-b872-26855959f6e8)
+![Screenshot 2024-01-11 110908](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/842db688-31e1-4ca1-a888-09d918881761)
+![Screenshot 2024-01-11 110943](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/3649a369-507f-49a7-a8bc-ec51559bc78d)
+![Screenshot 2024-01-11 111006](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/f51112d9-2484-48f9-bb39-3f7c88a4d67e)
+![Screenshot 2024-01-11 111049](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/ce5edcaa-9c0b-47d0-8ae0-12eab5b756c6)
+![Screenshot 2024-01-11 111205](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/b95e39ba-5446-4036-b98c-0a6cb5a46094)
+
+
+
+
+
+
+
