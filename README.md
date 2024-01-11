@@ -1,4 +1,4 @@
-const cardDetails = {
+```const cardDetails = {
   monthly: [
     {
       cardType: "Free",
@@ -123,4 +123,4 @@ const cardDetails = {
       ],
     },
   ],
-};
+};```
