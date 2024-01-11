@@ -3,6 +3,7 @@ import Logo from "../assets/Logo.png";
 import Profile from "../assets/profile.png";
 import CloudIcon from "../assets/cloud-computing.png";
 import Google from "../assets/google.png";
+import { Link } from "react-router-dom";
 
 export default function Login() {
   return (
@@ -76,9 +77,12 @@ export default function Login() {
       {/* ------------------------------------- */}
 
       <div className="w-1/2 h-screen flex flex-col items-center justify-center space-y-4">
-        <div>
+        {/* <div>
           <h3 className="font-bold">Meet Kimba</h3>
-        </div>
+        </div> */}
+        <Link to="/plans">
+          <h3 className="font-bold">Meet Kimba</h3>
+        </Link>
         <div className="">
           <img src={Profile} alt="phoneImg" />
         </div>
