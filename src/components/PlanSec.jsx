@@ -128,8 +128,6 @@ const cardDetails = {
   ],
 };
 
-console.log(cardDetails.monthly.length);
-
 export default function PlanSec() {
   const [monthly, setMonthly] = useState(true);
 

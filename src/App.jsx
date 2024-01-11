@@ -7,10 +7,10 @@ import Plans from "./pages/Plans";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/oneTapConnect">
         <Routes>
           <Route path="/" element={<Login />} />
-          <Route path="plans" element={<Plans />} />
+          <Route path="/plans" element={<Plans />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
       </BrowserRouter>
