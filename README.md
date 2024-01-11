@@ -133,6 +133,8 @@ const cardDetails = {
 ![Screenshot 2024-01-11 111006](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/f51112d9-2484-48f9-bb39-3f7c88a4d67e)
 ![Screenshot 2024-01-11 111049](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/ce5edcaa-9c0b-47d0-8ae0-12eab5b756c6)
 ![Screenshot 2024-01-11 111205](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/b95e39ba-5446-4036-b98c-0a6cb5a46094)
+![image](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/fa132e36-e531-43cf-ad4b-e12e17dd57f4)
+![image](https://github.com/harshpatelsyndell/oneTapConnect/assets/156167722/8c511405-4e71-492f-852e-e4338d936c91)
 
 
 
