@@ -6,7 +6,7 @@ import PlanSec from "../components/PlanSec";
 export default function Plans() {
   return (
     <div>
-      <Navigation />
+      <Navigation searchBar={false} logo={true} menubtn={false} />
       <div className="bg-white1 p-5">
         <PlanHeroSec />
         <PlanSec />
